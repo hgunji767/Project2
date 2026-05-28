@@ -5,7 +5,7 @@ Author: Example
 
 
 def greet(name):
-    return f"Hello, {name}! Welcome to Python."
+    return f"Hello, {name}! Welcome to Python1."
 
 
 if __name__ == "__main__":
